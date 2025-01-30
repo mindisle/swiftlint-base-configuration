@@ -7,3 +7,11 @@ analyzer_rules:
   - typesafe_array_init
   - unused_declaration
   - unused_import
+
+line_length:
+  warning: 300
+  error: 500
+
+identifier_name:
+  min_length:
+    warning: 1
