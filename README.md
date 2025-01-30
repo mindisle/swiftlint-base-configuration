@@ -8,6 +8,10 @@ Add the following line into your `.swiftlint.yml`.
 parent_config: https://raw.githubusercontent.com/Yoppei/SwiftLint-BaseConfiguration/v1.0.0/swiftlint-base.yml
 ```
 
+## SwiftLint docs
+
+https://realm.github.io/SwiftLint/index.html
+
 ## Update History
 
 | Tag    | SwiftLint Version |
