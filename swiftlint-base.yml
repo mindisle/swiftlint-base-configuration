@@ -1,0 +1,9 @@
+disabled_rules:
+
+opt_in_rules:
+
+analyzer_rules:
+  - capture_variable
+  - typesafe_array_init
+  - unused_declaration
+  - unused_import
